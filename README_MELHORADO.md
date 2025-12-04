@@ -46,45 +46,45 @@ Este projeto é uma versão aprimorada do sistema de controle de estoque desenvo
 
 ## Como Usar
 
-1. **Adicionar Itens ao Estoque:**
+1. **Adicionar Itens ao Estoque**:
    - Escolha a opção "1" no menu principal.
    - Informe o nome do item e a quantidade desejada.
 
-2. **Remover Itens do Estoque:**
+2. **Remover Itens do Estoque**:
    - Escolha a opção "2" no menu principal.
    - Informe o nome do item e escolha entre remover quantidade específica ou o item completamente.
 
-3. **Listar Itens no Estoque:**
+3. **Listar Itens no Estoque**:
    - Escolha a opção "3" no menu principal para visualizar todos os itens e suas quantidades.
    - Escolha o critério de ordenação (por nome, por quantidade crescente ou decrescente).
 
-4. **Obter Informações de Item:**
+4. **Obter Informações de Item**:
    - Escolha a opção "4" no menu principal.
    - Informe o nome do item para ver detalhes específicos.
 
-5. **Importar Dados de Estoque:**
+5. **Importar Dados de Estoque**:
    - Escolha a opção "5" no menu principal.
    - Forneça o caminho para o arquivo CSV contendo os dados do estoque.
    - Especifique o delimitador do CSV se for diferente de vírgula.
 
-6. **Exportar Dados de Estoque:**
+6. **Exportar Dados de Estoque**:
    - Escolha a opção "6" no menu principal.
    - Forneça o caminho para o arquivo CSV onde os dados serão salvos.
 
-7. **Realizar Balanço de Estoque:**
+7. **Realizar Balanço de Estoque**:
    - Escolha a opção "7" no menu principal.
    - Informe a quantidade física dos itens quando solicitado.
    - O sistema mostrará o status de cada item (OK, baixa ou retorno).
 
-8. **Visualizar Histórico de Balanços:**
+8. **Visualizar Histórico de Balanços**:
    - Escolha a opção "8" no menu principal.
    - Consulte todos os balanços realizados com datas e quantidades.
 
-9. **Exportar Balanço para Arquivo Excel:**
+9. **Exportar Balanço para Arquivo Excel**:
    - Escolha a opção "9" no menu principal.
    - Forneça o caminho para o arquivo Excel onde o último balanço será salvo.
 
-10. **Gerar Relatório de Estoque:**
+10. **Gerar Relatório de Estoque**:
     - Escolha a opção "10" no menu principal.
     - Visualize um relatório detalhado com estatísticas do estoque.
 
@@ -114,7 +114,7 @@ python app_melhorado.py
 
 - `app_melhorado.py`: Arquivo principal com a implementação do sistema aprimorado
 - `estoque.json`: Arquivo de persistência automática dos dados do estoque
-- `README.md`: Documentação das melhorias implementadas
+- `README_MELHORADO.md`: Documentação das melhorias implementadas
 
 ## Considerações Finais
 
